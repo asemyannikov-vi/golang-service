@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
+	fmt.Println("Message From tee:")
 	fmt.Println(tee.GetCommonData())
 }
