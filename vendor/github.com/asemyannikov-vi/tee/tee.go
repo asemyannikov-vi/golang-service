@@ -2,9 +2,5 @@ package tee
 
 // GetCommonData a method
 func GetCommonData() string {
-	return "Common Data"
-}
-
-func GetData() string {
-	return "Data"
+	return "Release: v0.0.2"
 }
