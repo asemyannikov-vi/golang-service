@@ -1,5 +1,5 @@
 package tee
 
-func GetReleaseMessage() string {
-	return "Release: v0.0.1"
+func GetReleaseNewMessage() string {
+	return "Release: v0.0.2"
 }
