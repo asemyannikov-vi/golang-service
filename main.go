@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Message From tee:")
+	fmt.Println("Message From:")
 	fmt.Println(tee.GetReleaseMessage())
 }
